@@ -64,3 +64,14 @@ h3 {
   width: 260px;
 
 }
+
+.well {
+  background-color: #9c9f84;
+  border-color: #9c9f84;
+}
+
+.well h2 {
+  font-size: 210%;
+  color: black;
+  
+}
