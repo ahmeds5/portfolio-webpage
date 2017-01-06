@@ -104,6 +104,18 @@ h3 {
 
 }
 
+.imagesidebar {
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  float:right;
+  width: 178px;
+  clear: right;
+
+}
+
 .well {
   background-color: #9c9f84;
   border-color: #9c9f84;
