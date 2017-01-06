@@ -2,6 +2,15 @@ body {
   margin: 0px;
   font-family: Verdana;
   font: 14px;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+body {
+  height: 100vh;
+  background-size: cover;
 
 }
 
