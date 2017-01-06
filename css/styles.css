@@ -15,13 +15,37 @@ body {
 
 }
 
-#navbar {
+#navbar ul {
+  list-style-type:none;
+  text-align: center;
+  padding: 5px;
   background-color: #5c755e;
   margin: 10px;
-  height: 35px;
   border-radius: 5px;
 
 }
+
+#navbar ul li {
+  display: inline;
+
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  font-family: Arial;
+  color: #fff;
+  background-color: #5c755e;
+  padding: 7px;
+
+}
+
+#navbar a:hover {
+  color: #5c755e;
+  background-color: #fff;
+  
+}
+
+
 
 
 .main {
