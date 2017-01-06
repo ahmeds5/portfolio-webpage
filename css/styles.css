@@ -1,15 +1,38 @@
 body {
-  background-color: yellow;
+  background-color: #9c9f84;
+  margin: 0px;
+  font-family: Verdana;
+  font: 14px;
+}
+
+#header {
+  background-color: #5c755e;
+  margin: 10px;
+  height: 90px;
+  border-radius: 5px;
+  padding: 12px;
 
 }
 
-.jumbotron {
-  background-color: yellow;
+#navbar {
+  background-color: #5c755e;
+  margin: 10px;
+  height: 35px;
+  border-radius: 5px;
 
 }
+
+.main {
+  background-color: #e5e4d7;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 110%;
+
+}
+
 h1 {
-  text-align: center;
-  font-style: italic;
-  font-family: serif;;
-  font-size: 60px;
+  font-size: 120%;
+  color: #ce282e;
+  
 }
